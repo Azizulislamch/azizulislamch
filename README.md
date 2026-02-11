@@ -17,11 +17,12 @@
 - 🏆 Solved 300+ problems on Codeforces / LeetCode / others
 - 🌱 Currently learning **React**, **Node.js**, and modern full-stack development
 - 💡 Passionate about clean UI/UX, performance, and scalable backend
+- 📚 A self-motivated learner with a strong foundation in programming and continuous learning
 - 📍 Based in Dhaka, Bangladesh
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,java,cpp,python,git,github,vscode&theme=dark&perline=7" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,c,cpp,java,python,git,github,vscode&theme=dark&perline=7" alt="skills" />
 </p>
 
 ### 🔥 Featured Projects
