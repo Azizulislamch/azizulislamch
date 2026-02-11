@@ -1,5 +1,8 @@
 <!-- Use a nice header image or gradient if you want (optional) -->
 <h1 align="center">Hi, I'm Azizul Islam 👋</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Azizulislamch&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 <p align="center">
   <em>Competitive Programmer (ICPC Dhaka Regional-24) | Undergraduate CSE Student | Aspiring Software Engineer</em><br>
