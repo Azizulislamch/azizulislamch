@@ -56,6 +56,9 @@ Here are some projects I'm proud of:
   <a href="https://www.facebook.com/pu.aazizul">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
+  <a href="https://codeforces.com/profile/azizulislamch">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
 </p>
 
 Thanks for stopping by! Feel free to explore my repos ⭐
