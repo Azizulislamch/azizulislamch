@@ -15,7 +15,7 @@
 ### 🚀 About Me
 - 🎓 Studying Computer Science & Engineering
 - 🧩 Competitive Programmer with **350+ problems solved** on Codeforces, Codechef, LeetCode & CSES
-- 🧠 Competitive Programming Profile: **[Codeforces](https://codeforces.com/profile/YOUR_USERNAME)**
+- 🧠 Competitive Programming Profile: **[Codeforces](https://codeforces.com/profile/azizulislamch)**
 - 🌱 Currently learning **React**, **Node.js**, and modern full-stack development
 - 💡 Passionate about clean UI/UX, performance, and scalable backend systems
 - 📚 A self-motivated learner with a strong foundation in programming and continuous learning
