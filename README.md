@@ -21,10 +21,8 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,cpp,python,git,github,vscode&theme=dark&perline=7" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,java,cpp,python,git,github,vscode&theme=dark&perline=7" alt="skills" />
 </p>
-
-(add more icons as you learn: tailwind, nextjs, mongodb, etc. → https://skillicons.dev)
 
 ### 🔥 Featured Projects
 Here are some projects I'm proud of:
@@ -43,9 +41,15 @@ Here are some projects I'm proud of:
 
 ### 📫 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/azizul-islam-37b804246"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your.azizulislamch@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <!-- Add Facebook, Twitter/X, personal site if you have -->
+  <a href="https://www.linkedin.com/in/azizul-islam-37b804246">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:azizulislamch@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.facebook.com/pu.aazizul">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
 </p>
 
 Thanks for stopping by! Feel free to explore my repos ⭐
