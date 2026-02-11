@@ -18,6 +18,7 @@
 - 🌱 Currently learning **React**, **Node.js**, and modern full-stack development
 - 💡 Passionate about clean UI/UX, performance, and scalable backend
 - 📚 A self-motivated learner with a strong foundation in programming and continuous learning
+- 🧩 Competitive Programming Profile: **[Codeforces](https://codeforces.com/profile/azizulislamch)**
 - 📍 Based in Dhaka, Bangladesh
 
 ### 🛠️ Tech Stack
