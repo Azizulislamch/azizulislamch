@@ -2,19 +2,19 @@
 <h1 align="center">Hi there! I'm Azizul Islam 👋</h1>
 
 <p align="center">
-  <em>Undergraduate CSE Student | Competitive Programmer (ICPC Dhaka Regional-24) | Aspiring Full-Stack / Software Engineer</em><br>
+  <em>Competitive Programmer (ICPC Dhaka Regional-24) | Undergraduate CSE Student | Aspiring Software Engineer</em><br>
   Building clean, responsive web experiences & solving real-world problems with code
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=HTML+%2F+CSS+%2F+JavaScript;React+%2F+Next.js+(learning);Java+%2F+Spring+Boot;Competitive+Programming+(C%2B%2B);Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=HTML+%2F+CSS+%2F+JavaScript;React+%2F+Next.js+(learning);Competitive+Programming+(C%2B%2B);Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br>
 
 ### 🚀 About Me
 - 🎓 Studying Computer Science & Engineering
-- 🏆 Solved 500+ problems on Codeforces / LeetCode / others
+- 🏆 Solved 300+ problems on Codeforces / LeetCode / others
 - 🌱 Currently learning **React**, **Node.js**, and modern full-stack development
 - 💡 Passionate about clean UI/UX, performance, and scalable backend
 - 📍 Based in Dhaka, Bangladesh
@@ -43,8 +43,8 @@ Here are some projects I'm proud of:
 
 ### 📫 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/azizul-islam-37b804246"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:your.azizulislamch@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <!-- Add Facebook, Twitter/X, personal site if you have -->
 </p>
 
