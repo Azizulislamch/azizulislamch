@@ -39,7 +39,7 @@ Here are some projects I'm proud of:
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azizulislamch&show_icons=true&theme=radical&hide_border=true" alt="stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Azizulislamch&show_icons=true&theme=radical&hide_border=true" alt="stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azizulislamch&theme=radical&hide_border=true" alt="streak" />
 </p>
 
