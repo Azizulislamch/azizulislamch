@@ -31,9 +31,10 @@
 ### 🔥 Featured Projects
 Here are some projects I'm proud of:
 
-- **[Currency-Converter](https://github.com/Azizulislamch/Currency-Converter)** → Real-time currency converter with live API & historical charts (Java)
-- **[my-travel-blog](https://github.com/Azizulislamch/my-travel-blog)** → Responsive travel blog (HTML, CSS, JS)
+- **[cpp-problem-solving](https://github.com/Azizulislamch/cpp-problem-solving)** – Competitive programming solutions in C++
 - **[Portfolio-Design](https://github.com/Azizulislamch/Portfolio-Design)** → Clean personal portfolio site
+- **[my-travel-blog](https://github.com/Azizulislamch/my-travel-blog)** → Responsive travel blog (HTML, CSS, JS)
+- **[Currency-Converter](https://github.com/Azizulislamch/Currency-Converter)** → Real-time currency converter with live API & historical charts (Java)
 - **[Android-Malware-Detection](https://github.com/Azizulislamch/Android-Malware-Detection-Using-Machine-Learning)** → ML-based malware classifier (Jupyter)
 - More coming soon...
 
