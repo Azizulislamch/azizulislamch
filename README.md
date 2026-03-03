@@ -33,7 +33,7 @@ Here are some projects I'm proud of:
 
 - **[cpp-problem-solving](https://github.com/Azizulislamch/cpp-problem-solving)** – Competitive programming solutions in C++
 - **[Portfolio-Design](https://github.com/Azizulislamch/Portfolio-Design)** → Clean personal portfolio site
-- **[ApplyFlow-Job-Application-Manager](https://github.com/Azizulislamch/ApplyFlow-Job-Application-Manager)** → A modern, responsive web application help users to track and manage their job applications.
+- **[ApplyFlow-Job-Application-Manager](https://github.com/Azizulislamch/ApplyFlow-Job-Application-Manager)** → A modern, responsive web app to track and manage job applications.
 - **[my-travel-blog](https://github.com/Azizulislamch/my-travel-blog)** → Responsive travel blog (HTML, CSS, JS)
 - **[react-props-practice](https://github.com/Azizulislamch/react-props-practice)** → React fundamentals with clean UI
 - **[Currency-Converter](https://github.com/Azizulislamch/Currency-Converter)** → Real-time currency converter with live API & historical charts (Java)
