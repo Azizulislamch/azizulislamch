@@ -1,8 +1,6 @@
 <!-- Use a nice header image or gradient if you want (optional) -->
 <h1 align="center">Hi, I'm Azizul Islam 👋</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Azizulislamch&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="profile views" />
-</p>
+
 
 <p align="center">
   <em>Competitive Programmer (ICPC Dhaka Regional-24) | Undergraduate CSE Student | Aspiring Software Engineer</em><br>
@@ -60,6 +58,10 @@ Here are some projects I'm proud of:
   <a href="https://codeforces.com/profile/azizulislamch">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Azizulislamch&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="profile views" />
 </p>
 
 Thanks for stopping by! Feel free to explore my repos ⭐
