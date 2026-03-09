@@ -29,10 +29,11 @@
 ### 🔥 Featured Projects
 Here are some projects I'm proud of:
 
-- **[cpp-problem-solving](https://github.com/Azizulislamch/cpp-problem-solving)** – Competitive programming solutions in C++
+- **[cpp-problem-solving](https://github.com/Azizulislamch/cpp-problem-solving)** → Competitive programming solutions in C++
 - **[Portfolio-Design](https://github.com/Azizulislamch/Portfolio-Design)** → Clean personal portfolio site
 - **[ApplyFlow-Job-Application-Manager](https://github.com/Azizulislamch/ApplyFlow-Job-Application-Manager)** → A modern, responsive web app to track and manage job applications.
 - **[my-travel-blog](https://github.com/Azizulislamch/my-travel-blog)** → Responsive travel blog (HTML, CSS, JS)
+- **[Bangladesh-2.0-A1](https://github.com/Azizulislamch/Bangladesh-2.0-A1)** → A responsive landing page showcasing the vision of Bangladesh 2.0 with a clean and modern UI.
 - **[react-props-practice](https://github.com/Azizulislamch/react-props-practice)** → React fundamentals with clean UI
 - **[Currency-Converter](https://github.com/Azizulislamch/Currency-Converter)** → Real-time currency converter with live API & historical charts (Java)
 - **[Android-Malware-Detection](https://github.com/Azizulislamch/Android-Malware-Detection-Using-Machine-Learning)** → ML-based malware classifier (Jupyter)
