@@ -26,12 +26,24 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,c,cpp,java,python,git,github,vscode&theme=dark&perline=7" alt="skills" />
 </p>
 
+### 🤖 AI Chatbot Assistant  
+
+An intelligent chatbot integrated into my portfolio that helps visitors explore my work interactively.
+
+- 🧠 Powered by **LLaMA (Groq API)**  
+- 💬 Answers questions about my projects, skills & experience  
+- 🌍 Supports **English, Bangla & Banglish**  
+- ⚡ Real-time responses with dynamic context  
+- 🚀 Enhances user engagement & portfolio experience  
+
+🔗 Try it here: https://portfolio-app-azizul.vercel.app/
+
 ### 🔥 Featured Projects
 Here are some projects I'm proud of:
 
 - **[cpp-problem-solving](https://github.com/Azizulislamch/cpp-problem-solving)** → Competitive programming solutions in C++
-- **[Portfolio-Design](https://github.com/Azizulislamch/Portfolio-Design)** → Clean personal portfolio site
-- **[ApplyFlow-Job-Application-Manager](https://github.com/Azizulislamch/ApplyFlow-Job-Application-Manager)** → A modern, responsive web app to track and manage job applications.
+- **[Portfolio-Design](https://github.com/Azizulislamch/portfolio-app)** → Clean personal portfolio site
+- **[ApplyFlow-Job-Application-Manager](https://github.com/Azizulislamch/applyflow-react)** → A modern, responsive web app to track and manage job applications.
 - **[my-travel-blog](https://github.com/Azizulislamch/my-travel-blog)** → Responsive travel blog (HTML, CSS, JS)
 - **[Bangladesh-2.0-A1](https://github.com/Azizulislamch/Bangladesh-2.0-A1)** → A responsive landing page showcasing the vision of Bangladesh 2.0 with a clean and modern UI.
 - **[react-props-practice](https://github.com/Azizulislamch/react-props-practice)** → React fundamentals with clean UI
