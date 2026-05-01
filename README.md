@@ -1,5 +1,6 @@
-<!-- Use a nice header image or gradient if you want (optional) -->
-<h1 align="center">Hi, I'm Azizul Islam 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:c084fc&height=220&section=header&text=Azizul%20Islam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=22&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
+</p>
 
 
 <p align="center">
