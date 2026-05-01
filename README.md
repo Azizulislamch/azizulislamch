@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=HTML+%2F+CSS+%2F+JavaScript;React+%2F+Next.js+(learning);Competitive+Programming+(C%2B%2B);Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=HTML+%2F+CSS+%2F+JavaScript;React+%2F+Next.js+(learning);Competitive+Programming+(C%2B%2B);Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 ### 🚀 About Me
