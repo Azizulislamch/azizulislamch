@@ -32,19 +32,25 @@ const azizul: Developer = {
   role: "Frontend Developer",
   location: "Dhaka, Bangladesh",
   languages: ["C", "C++", "Java", "Python", "JavaScript"],
-  frontend: ["React", "Next.js", "Tailwind CSS"],
-  backend: ["Node.js (learning)"],
+  frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+  backend: ["Node.js (learning)", "Express.js (learning)", "MongoDB"],
   interests: ["UI/UX", "Competitive Programming", "AI"],
-  currentlyLearning: "Full Stack Development",
+  currentlyLearning: "Full Stack Development (MERN)",
   funFact: "Consistency beats motivation 🚀"
 };
+
+
 ````
 
-* 🧠 Solved **350+ programming problems**
-* 🌱 Currently learning **Backend Development**
-* ⚡ Love building clean and interactive UI
-* 🏆 ICPC Dhaka Regional 2024 Participant
-* 💬 Ask me about **React, JavaScript, TypeScript, C++**
+```md
+- 🧠 Solved 350+ programming problems
+- ⚛️ Building modern apps using React, Next.js & TypeScript
+- 🌱 Currently focusing on Backend Development
+- 🚀 Exploring full-stack architecture & scalable systems
+- 🏆 ICPC Dhaka Regional 2024 Participant
+- 💬 Ask me about React, Next.js, TypeScript & C++
+```
+
 
 </td>
 
