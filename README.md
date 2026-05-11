@@ -12,22 +12,60 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=HTML+%2F+CSS+%2F+JavaScript;React+%2F+Next.js+(learning);Competitive+Programming+(C%2B%2B);Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
-### 🚀 About Me
-- 🎓 Studying Computer Science & Engineering
-- 🧩 Competitive Programmer with **350+ problems solved** on Codeforces, Codechef, LeetCode & CSES
-- 🧠 Competitive Programming Profile: **[Codeforces](https://codeforces.com/profile/azizulislamch)**
-- 🌱 Currently learning **React**, **Node.js**, and modern full-stack development
-- 💡 Passionate about clean UI/UX, performance, and scalable backend systems
-- 📚 A self-motivated learner with a strong foundation in programming and continuous learning
-- 📍 Based in Dhaka, Bangladesh
+## 👨‍💻 About Me
 
 
-### 🛠️ Tech Stack
+
+I'm a passionate **Frontend Developer** from **Bangladesh**, focused on building clean, modern and responsive web applications.
+
+I enjoy creating smooth UI experiences, solving programming problems and continuously learning modern technologies.
+
+I thrive at the intersection of **clean code**, **performance**, and **great user experience**.
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+```js
+const azizul: Developer = {
+  name: "Azizul Islam"
+  role: "Frontend Developer",
+  location: "Dhaka, Bangladesh",
+  languages: ["C", "C++", "Java", "Python", "JavaScript"],
+  frontend: ["React", "Next.js", "Tailwind CSS"],
+  backend: ["Node.js (learning)"],
+  interests: ["UI/UX", "Competitive Programming", "AI"],
+  currentlyLearning: "Full Stack Development",
+  funFact: "Consistency beats motivation 🚀"
+};
+````
+
+* 🧠 Solved **350+ programming problems**
+* 🌱 Currently learning **Backend Development**
+* ⚡ Love building clean and interactive UI
+* 🏆 ICPC Dhaka Regional 2024 Participant
+* 💬 Ask me about **React, JavaScript, TypeScript, C++**
+
+</td>
+
+<td width="65%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320"/>
+
+</td>
+</tr>
+</table>
+
+<br> 
+
+## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,c,cpp,java,python,git,github,vscode&theme=dark&perline=7" alt="skills" />
 </p>
 
-### 🤖 AI Chatbot Assistant  
+<br>
+
+## 🤖 AI Chatbot Assistant  
 
 An intelligent chatbot integrated into my portfolio that helps visitors explore my work interactively.
 
@@ -39,7 +77,9 @@ An intelligent chatbot integrated into my portfolio that helps visitors explore 
 
 🔗 Try it here: https://portfolio-app-azizul.vercel.app/
 
-### 🔥 Featured Projects
+<br>
+
+## 🔥 Featured Projects
 Here are some projects I'm proud of:
 
 - **[cpp-problem-solving](https://github.com/Azizulislamch/cpp-problem-solving)** → Competitive programming solutions in C++
@@ -52,13 +92,17 @@ Here are some projects I'm proud of:
 - **[Android-Malware-Detection](https://github.com/Azizulislamch/Android-Malware-Detection-Using-Machine-Learning)** → ML-based malware classifier (Jupyter)
 - More coming soon...
 
-### 📊 GitHub Stats
+<br>
+
+## 📊 GitHub Stats
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Azizulislamch&show_icons=true&theme=radical&hide_border=true" alt="stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azizulislamch&theme=radical&hide_border=true" alt="streak" />
 </p>
 
-### 📫 Let's Connect
+<br>
+
+## 📫 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/azizul-islam-37b804246">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
