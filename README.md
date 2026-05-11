@@ -33,7 +33,7 @@ const azizul: Developer = {
   location: "Dhaka, Bangladesh",
   languages: ["C", "C++", "Java", "Python", "JavaScript"],
   frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-  backend: ["Node.js (learning)", "Express.js (learning)", "MongoDB"],
+  backend: ["Node.js & Express.js (learning)", "MongoDB"],
   interests: ["UI/UX", "Competitive Programming", "AI"],
   currentlyLearning: "Full Stack Development (MERN)",
   funFact: "Consistency beats motivation 🚀"
