@@ -24,7 +24,7 @@ I thrive at the intersection of **clean code**, **performance**, and **great use
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ```js
 const azizul: Developer = {
