@@ -66,7 +66,10 @@ const azizul: Developer = {
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,c,cpp,java,python,git,github,vscode&theme=dark&perline=7" alt="skills" />
+  <img 
+    src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,c,cpp,java,python,git,github,vscode,figma,postman,vercel,npm&theme=dark&perline=7"
+alt="skills"
+  />
 </p>
 
 <br>
