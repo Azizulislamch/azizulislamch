@@ -104,15 +104,13 @@ Here are some projects I'm proud of:
 <br>
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img width="50%" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Azizulislamch&hide=HTML&langs_count=8&layout=compact&theme=radical&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</p>
 
 <div align="center">
-<img width="50%"  src="https://github-readme-streak-stats.herokuapp.com?user=Azizulislamch&theme=radical&hide_border=true" />
-<img width="47%"  src="https://github-readme-stats-salesp07.vercel.app/api?username=Azizulislamch&count_private=true&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="readme stats" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com?user=Azizulislamch&theme=radical&hide_border=true" />
+  <img width="47%"  src="https://github-readme-stats-salesp07.vercel.app/api?username=Azizulislamch&count_private=true&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="readme stats" />
+<br/>
+  <img width="50%" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Azizulislamch&hide=HTML&langs_count=8&layout=compact&theme=radical&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
 
 <br>
 
