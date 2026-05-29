@@ -28,7 +28,7 @@ I thrive at the intersection of **clean code**, **performance**, and **great use
 
 ```js
 const azizul: Developer = {
-  name: "Azizul Islam"
+  name: "Azizul Islam",
   role: "Frontend Developer",
   location: "Dhaka, Bangladesh",
   languages: ["C", "C++", "Java", "Python", "JavaScript"],
@@ -43,7 +43,7 @@ const azizul: Developer = {
 ````
 
 ```md
-- 🧠 Solved 350+ programming problems
+- 🧠 Solved 350+ problems in Codeforces and Codechef
 - ⚛️ Building modern apps using React, Next.js & TypeScript
 - 🌱 Currently focusing on Backend Development
 - 🚀 Exploring full-stack architecture & scalable systems
