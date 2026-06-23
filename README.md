@@ -137,5 +137,5 @@ Here are some projects I'm proud of:
 Thanks for stopping by! Feel free to explore my repos ⭐
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:c084fc&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:c084fc&height=110&section=footer" />
 </p>
